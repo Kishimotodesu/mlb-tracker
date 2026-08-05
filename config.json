@@ -1,0 +1,13 @@
+{
+  "season": 2026,
+  "timezone": "Asia/Tokyo",
+  "pregame_notify_minutes": 90,
+  "players": [
+    { "id": 660271, "name_ja": "大谷翔平", "name_en": "Shohei Ohtani" },
+    { "id": 673548, "name_ja": "鈴木誠也", "name_en": "Seiya Suzuki" },
+    { "id": 672960, "name_ja": "岡本和真", "name_en": "Kazuma Okamoto" },
+    { "id": 808959, "name_ja": "村上宗隆", "name_en": "Munetaka Murakami" },
+    { "id": 545361, "name_ja": "マイク・トラウト", "name_en": "Mike Trout" },
+    { "id": 665487, "name_ja": "フェルナンド・タティスJr.", "name_en": "Fernando Tatis Jr." }
+  ]
+}
