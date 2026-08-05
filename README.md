@@ -51,6 +51,10 @@ python scripts/find_player_id.py "Shohei Ohtani"
 }
 ```
 
+**Claude Codeに頼む場合**: このリポジトリには `add-mlb-player` スキルを同梱しています。
+mlb-trackerディレクトリで作業中に「〇〇選手を追加して」「△△選手を外して」と伝えるだけで、
+選手ID検索・config.json編集・コミット・pushまで自動で行います。
+
 - `name_ja` はDiscord通知・Webページに表示される表記です
 - 移籍しても選手IDは変わらないため、IDで管理しています(現在所属チームはAPIから毎回自動取得)
 
