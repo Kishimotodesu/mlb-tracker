@@ -18,7 +18,7 @@
           "opponent": "Arizona Diamondbacks",
           "is_home": false,
           "start_jst": "10:40",
-          "status": "Preview"
+          "status": "Live"
         }
       ],
       "recent_game": {
@@ -31,7 +31,7 @@
       "season_pitching": "防御率1.79 8勝2敗 奪三振95",
       "mlb_url": "https://www.mlb.com/player/shohei-ohtani-660271",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/660271",
-      "updated_at": "2026/08/08 08:33"
+      "updated_at": "2026/08/08 10:39"
     },
     "673548": {
       "name_ja": "鈴木誠也",
@@ -43,7 +43,7 @@
           "opponent": "Kansas City Royals",
           "is_home": false,
           "start_jst": "09:10",
-          "status": "Preview"
+          "status": "Live"
         }
       ],
       "recent_game": {
@@ -52,11 +52,11 @@
         "batting": "4打数0安打 本塁打0 打点0 三振1 四球1",
         "pitching": null
       },
-      "season_hitting": "打率.270 本塁打19 打点64 OPS .840",
+      "season_hitting": "打率.271 本塁打19 打点66 OPS .839",
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/seiya-suzuki-673548",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/673548",
-      "updated_at": "2026/08/08 08:33"
+      "updated_at": "2026/08/08 10:39"
     },
     "672960": {
       "name_ja": "岡本和真",
@@ -68,7 +68,7 @@
           "opponent": "Philadelphia Phillies",
           "is_home": false,
           "start_jst": "07:40",
-          "status": "Preview"
+          "status": "Live"
         }
       ],
       "recent_game": {
@@ -77,11 +77,11 @@
         "batting": "4打数1安打 本塁打0 打点0 三振2 四球1",
         "pitching": null
       },
-      "season_hitting": "打率.229 本塁打24 打点70 OPS .742",
+      "season_hitting": "打率.228 本塁打24 打点70 OPS .738",
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/kazuma-okamoto-672960",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/672960",
-      "updated_at": "2026/08/08 08:33"
+      "updated_at": "2026/08/08 10:39"
     },
     "808959": {
       "name_ja": "村上宗隆",
@@ -102,11 +102,11 @@
         "batting": "6打数0安打 本塁打0 打点0 三振3 四球1",
         "pitching": null
       },
-      "season_hitting": "打率.236 本塁打24 打点51 OPS .895",
+      "season_hitting": "打率.237 本塁打25 打点52 OPS .903",
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/munetaka-murakami-808959",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/808959",
-      "updated_at": "2026/08/08 08:33"
+      "updated_at": "2026/08/08 10:39"
     },
     "545361": {
       "name_ja": "マイク・トラウト",
@@ -127,11 +127,11 @@
         "batting": "4打数0安打 本塁打0 打点0 三振2 四球1",
         "pitching": null
       },
-      "season_hitting": "打率.241 本塁打19 打点41 OPS .836",
+      "season_hitting": "打率.240 本塁打19 打点41 OPS .834",
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/mike-trout-545361",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/545361",
-      "updated_at": "2026/08/08 08:33"
+      "updated_at": "2026/08/08 10:39"
     },
     "665487": {
       "name_ja": "フェルナンド・タティスJr.",
@@ -143,7 +143,7 @@
           "opponent": "Houston Astros",
           "is_home": true,
           "start_jst": "10:40",
-          "status": "Preview"
+          "status": "Live"
         }
       ],
       "recent_game": {
@@ -156,7 +156,7 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/fernando-tatis-jr-665487",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/665487",
-      "updated_at": "2026/08/08 08:33"
+      "updated_at": "2026/08/08 10:39"
     },
     "807799": {
       "name_ja": "吉田正尚",
@@ -177,11 +177,11 @@
         "batting": "4打数2安打 本塁打0 打点1 三振1 四球1",
         "pitching": null
       },
-      "season_hitting": "打率.269 本塁打5 打点24 OPS .740",
+      "season_hitting": "打率.273 本塁打5 打点26 OPS .747",
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/masataka-yoshida-807799",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/807799",
-      "updated_at": "2026/08/08 08:33"
+      "updated_at": "2026/08/08 10:39"
     }
   }
 }
