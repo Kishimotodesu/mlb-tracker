@@ -9,7 +9,9 @@
     "824319:pregame": true,
     "822938:postgame": true,
     "823586:postgame": true,
-    "824723:postgame": true
+    "824723:postgame": true,
+    "824319:postgame": true,
+    "824154:postgame": true
   },
   "cache": {
     "660271": {
@@ -22,20 +24,20 @@
           "opponent": "Colorado Rockies",
           "is_home": false,
           "start_jst": "09:40",
-          "status": "Live"
+          "status": "Final"
         }
       ],
       "recent_game": {
-        "date_jst": "08/18",
+        "date_jst": "08/19",
         "opponent": "Colorado Rockies",
-        "batting": "5打数4安打 本塁打2 打点3 三振0 四球0",
+        "batting": "5打数1安打 本塁打1 打点2 三振1 四球0",
         "pitching": null
       },
-      "season_hitting": "打率.294 本塁打30 打点80 OPS .951",
+      "season_hitting": "打率.294 本塁打30 打点80 OPS .948",
       "season_pitching": "防御率1.79 8勝2敗 奪三振95",
       "mlb_url": "https://www.mlb.com/player/shohei-ohtani-660271",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/660271",
-      "updated_at": "2026/08/19 11:38"
+      "updated_at": "2026/08/19 12:46"
     },
     "673548": {
       "name_ja": "鈴木誠也",
@@ -60,7 +62,7 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/seiya-suzuki-673548",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/673548",
-      "updated_at": "2026/08/19 11:38"
+      "updated_at": "2026/08/19 12:46"
     },
     "672960": {
       "name_ja": "岡本和真",
@@ -85,7 +87,7 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/kazuma-okamoto-672960",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/672960",
-      "updated_at": "2026/08/19 11:38"
+      "updated_at": "2026/08/19 12:46"
     },
     "808959": {
       "name_ja": "村上宗隆",
@@ -110,7 +112,7 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/munetaka-murakami-808959",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/808959",
-      "updated_at": "2026/08/19 11:38"
+      "updated_at": "2026/08/19 12:46"
     },
     "545361": {
       "name_ja": "マイク・トラウト",
@@ -122,20 +124,20 @@
           "opponent": "Houston Astros",
           "is_home": false,
           "start_jst": "09:10",
-          "status": "Live"
+          "status": "Final"
         }
       ],
       "recent_game": {
-        "date_jst": "08/17",
-        "opponent": "Kansas City Royals",
-        "batting": "4打数0安打 本塁打0 打点0 三振2 四球0",
+        "date_jst": "08/19",
+        "opponent": "Houston Astros",
+        "batting": "3打数0安打 本塁打0 打点0 三振0 四球1",
         "pitching": null
       },
       "season_hitting": "打率.240 本塁打20 打点45 OPS .819",
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/mike-trout-545361",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/545361",
-      "updated_at": "2026/08/19 11:38"
+      "updated_at": "2026/08/19 12:46"
     },
     "665487": {
       "name_ja": "フェルナンド・タティスJr.",
@@ -160,7 +162,7 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/fernando-tatis-jr-665487",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/665487",
-      "updated_at": "2026/08/19 11:38"
+      "updated_at": "2026/08/19 12:46"
     },
     "807799": {
       "name_ja": "吉田正尚",
@@ -185,7 +187,7 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/masataka-yoshida-807799",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/807799",
-      "updated_at": "2026/08/19 11:38"
+      "updated_at": "2026/08/19 12:46"
     }
   }
 }
