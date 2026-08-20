@@ -1,33 +1,12 @@
 {
-  "date": "2026-08-20",
-  "notified": {
-    "823587:pregame": true,
-    "824640:pregame": true,
-    "824722:pregame": true,
-    "823587:postgame": true,
-    "824640:postgame": true,
-    "822937:pregame": true,
-    "824155:pregame": true,
-    "824318:pregame": true,
-    "824722:postgame": true,
-    "822937:postgame": true,
-    "824155:postgame": true,
-    "824318:postgame": true
-  },
+  "date": "2026-08-21",
+  "notified": {},
   "cache": {
     "660271": {
       "name_ja": "大谷翔平",
       "name_en": "Shohei Ohtani",
       "team": "Los Angeles Dodgers",
-      "today_games": [
-        {
-          "game_pk": 824318,
-          "opponent": "Colorado Rockies",
-          "is_home": false,
-          "start_jst": "09:40",
-          "status": "Final"
-        }
-      ],
+      "today_games": [],
       "recent_game": {
         "date_jst": "08/20",
         "opponent": "Colorado Rockies",
@@ -38,21 +17,13 @@
       "season_pitching": "防御率1.79 8勝2敗 奪三振95",
       "mlb_url": "https://www.mlb.com/player/shohei-ohtani-660271",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/660271",
-      "updated_at": "2026/08/20 23:36"
+      "updated_at": "2026/08/21 00:33"
     },
     "673548": {
       "name_ja": "鈴木誠也",
       "name_en": "Seiya Suzuki",
       "team": "Chicago Cubs",
-      "today_games": [
-        {
-          "game_pk": 824640,
-          "opponent": "Chicago White Sox",
-          "is_home": true,
-          "start_jst": "03:20",
-          "status": "Final"
-        }
-      ],
+      "today_games": [],
       "recent_game": {
         "date_jst": "08/20",
         "opponent": "Chicago White Sox",
@@ -63,7 +34,7 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/seiya-suzuki-673548",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/673548",
-      "updated_at": "2026/08/20 23:36"
+      "updated_at": "2026/08/21 00:33"
     },
     "672960": {
       "name_ja": "岡本和真",
@@ -71,11 +42,11 @@
       "team": "Toronto Blue Jays",
       "today_games": [
         {
-          "game_pk": 822937,
+          "game_pk": 822934,
           "opponent": "Tampa Bay Rays",
           "is_home": false,
-          "start_jst": "07:40",
-          "status": "Final"
+          "start_jst": "02:10",
+          "status": "Preview"
         }
       ],
       "recent_game": {
@@ -88,7 +59,7 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/kazuma-okamoto-672960",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/672960",
-      "updated_at": "2026/08/20 23:36"
+      "updated_at": "2026/08/21 00:33"
     },
     "808959": {
       "name_ja": "村上宗隆",
@@ -96,11 +67,11 @@
       "team": "Chicago White Sox",
       "today_games": [
         {
-          "game_pk": 824640,
-          "opponent": "Chicago Cubs",
-          "is_home": false,
-          "start_jst": "03:20",
-          "status": "Final"
+          "game_pk": 824589,
+          "opponent": "Atlanta Braves",
+          "is_home": true,
+          "start_jst": "03:10",
+          "status": "Preview"
         }
       ],
       "recent_game": {
@@ -113,7 +84,7 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/munetaka-murakami-808959",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/808959",
-      "updated_at": "2026/08/20 23:36"
+      "updated_at": "2026/08/21 00:33"
     },
     "545361": {
       "name_ja": "マイク・トラウト",
@@ -121,11 +92,11 @@
       "team": "Los Angeles Angels",
       "today_games": [
         {
-          "game_pk": 824155,
+          "game_pk": 824153,
           "opponent": "Houston Astros",
           "is_home": false,
           "start_jst": "09:10",
-          "status": "Final"
+          "status": "Preview"
         }
       ],
       "recent_game": {
@@ -138,21 +109,13 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/mike-trout-545361",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/545361",
-      "updated_at": "2026/08/20 23:36"
+      "updated_at": "2026/08/21 00:33"
     },
     "665487": {
       "name_ja": "フェルナンド・タティスJr.",
       "name_en": "Fernando Tatis Jr.",
       "team": "San Diego Padres",
-      "today_games": [
-        {
-          "game_pk": 823587,
-          "opponent": "New York Mets",
-          "is_home": false,
-          "start_jst": "02:10",
-          "status": "Final"
-        }
-      ],
+      "today_games": [],
       "recent_game": {
         "date_jst": "08/20",
         "opponent": "New York Mets",
@@ -163,21 +126,13 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/fernando-tatis-jr-665487",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/665487",
-      "updated_at": "2026/08/20 23:36"
+      "updated_at": "2026/08/21 00:33"
     },
     "807799": {
       "name_ja": "吉田正尚",
       "name_en": "Masataka Yoshida",
       "team": "Boston Red Sox",
-      "today_games": [
-        {
-          "game_pk": 824722,
-          "opponent": "Arizona Diamondbacks",
-          "is_home": true,
-          "start_jst": "05:10",
-          "status": "Final"
-        }
-      ],
+      "today_games": [],
       "recent_game": {
         "date_jst": "08/20",
         "opponent": "Arizona Diamondbacks",
@@ -188,7 +143,7 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/masataka-yoshida-807799",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/807799",
-      "updated_at": "2026/08/20 23:36"
+      "updated_at": "2026/08/21 00:33"
     }
   }
 }
