@@ -2,7 +2,8 @@
   "date": "2026-09-01",
   "notified": {
     "824473:pregame": true,
-    "824719:pregame": true
+    "824719:pregame": true,
+    "823982:pregame": true
   },
   "cache": {
     "660271": {
@@ -20,7 +21,7 @@
       "season_pitching": "防御率1.79 8勝2敗 奪三振95",
       "mlb_url": "https://www.mlb.com/player/shohei-ohtani-660271",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/660271",
-      "updated_at": "2026/09/01 06:19"
+      "updated_at": "2026/09/01 09:43"
     },
     "673548": {
       "name_ja": "鈴木誠也",
@@ -32,7 +33,7 @@
           "opponent": "Milwaukee Brewers",
           "is_home": true,
           "start_jst": "08:40",
-          "status": "Preview"
+          "status": "Live"
         }
       ],
       "recent_game": {
@@ -41,11 +42,11 @@
         "batting": "5打数0安打 本塁打0 打点0 三振1 四球0",
         "pitching": null
       },
-      "season_hitting": "打率.274 本塁打23 打点79 OPS .853",
+      "season_hitting": "打率.276 本塁打23 打点79 OPS .857",
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/seiya-suzuki-673548",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/673548",
-      "updated_at": "2026/09/01 06:19"
+      "updated_at": "2026/09/01 09:43"
     },
     "672960": {
       "name_ja": "岡本和真",
@@ -58,11 +59,11 @@
         "batting": "3打数1安打 本塁打1 打点1 三振0 四球1",
         "pitching": null
       },
-      "season_hitting": "打率.230 本塁打28 打点78 OPS .753",
+      "season_hitting": "打率.228 本塁打28 打点78 OPS .748",
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/kazuma-okamoto-672960",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/672960",
-      "updated_at": "2026/09/01 06:19"
+      "updated_at": "2026/09/01 09:43"
     },
     "808959": {
       "name_ja": "村上宗隆",
@@ -74,7 +75,7 @@
           "opponent": "Houston Astros",
           "is_home": false,
           "start_jst": "09:10",
-          "status": "Preview"
+          "status": "Live"
         }
       ],
       "recent_game": {
@@ -83,11 +84,11 @@
         "batting": "4打数0安打 本塁打0 打点0 三振1 四球0",
         "pitching": null
       },
-      "season_hitting": "打率.218 本塁打29 打点58 OPS .854",
+      "season_hitting": "打率.218 本塁打29 打点58 OPS .853",
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/munetaka-murakami-808959",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/808959",
-      "updated_at": "2026/09/01 06:19"
+      "updated_at": "2026/09/01 09:43"
     },
     "545361": {
       "name_ja": "マイク・トラウト",
@@ -112,7 +113,7 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/mike-trout-545361",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/545361",
-      "updated_at": "2026/09/01 06:19"
+      "updated_at": "2026/09/01 09:43"
     },
     "665487": {
       "name_ja": "フェルナンド・タティスJr.",
@@ -124,7 +125,7 @@
           "opponent": "Cincinnati Reds",
           "is_home": false,
           "start_jst": "07:40",
-          "status": "Preview"
+          "status": "Live"
         }
       ],
       "recent_game": {
@@ -133,11 +134,11 @@
         "batting": "4打数0安打 本塁打0 打点0 三振0 四球0",
         "pitching": null
       },
-      "season_hitting": "打率.282 本塁打17 打点67 OPS .789",
+      "season_hitting": "打率.281 本塁打17 打点67 OPS .788",
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/fernando-tatis-jr-665487",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/665487",
-      "updated_at": "2026/09/01 06:19"
+      "updated_at": "2026/09/01 09:43"
     },
     "807799": {
       "name_ja": "吉田正尚",
@@ -149,7 +150,7 @@
           "opponent": "Seattle Mariners",
           "is_home": true,
           "start_jst": "07:45",
-          "status": "Preview"
+          "status": "Live"
         }
       ],
       "recent_game": {
@@ -162,7 +163,7 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/masataka-yoshida-807799",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/807799",
-      "updated_at": "2026/09/01 06:19"
+      "updated_at": "2026/09/01 09:43"
     }
   }
 }
