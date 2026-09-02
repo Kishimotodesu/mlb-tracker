@@ -7,7 +7,10 @@
     "824633:postgame": true,
     "824391:postgame": true,
     "824472:postgame": true,
-    "824716:postgame": true
+    "824716:postgame": true,
+    "823908:postgame": true,
+    "824148:postgame": true,
+    "823984:postgame": true
   },
   "cache": {
     "660271": {
@@ -20,20 +23,20 @@
           "opponent": "St. Louis Cardinals",
           "is_home": true,
           "start_jst": "11:10",
-          "status": "Live"
+          "status": "Final"
         }
       ],
       "recent_game": {
-        "date_jst": "08/31",
-        "opponent": "Detroit Tigers",
-        "batting": "5打数0安打 本塁打0 打点0 三振2 四球0",
+        "date_jst": "09/02",
+        "opponent": "St. Louis Cardinals",
+        "batting": "2打数1安打 本塁打0 打点0 三振0 四球1",
         "pitching": null
       },
-      "season_hitting": "打率.279 本塁打30 打点80 OPS .908",
+      "season_hitting": "打率.281 本塁打30 打点80 OPS .911",
       "season_pitching": "防御率1.79 8勝2敗 奪三振95",
       "mlb_url": "https://www.mlb.com/player/shohei-ohtani-660271",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/660271",
-      "updated_at": "2026/09/02 12:13"
+      "updated_at": "2026/09/02 17:03"
     },
     "673548": {
       "name_ja": "鈴木誠也",
@@ -58,7 +61,7 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/seiya-suzuki-673548",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/673548",
-      "updated_at": "2026/09/02 12:13"
+      "updated_at": "2026/09/02 17:03"
     },
     "672960": {
       "name_ja": "岡本和真",
@@ -83,7 +86,7 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/kazuma-okamoto-672960",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/672960",
-      "updated_at": "2026/09/02 12:13"
+      "updated_at": "2026/09/02 17:03"
     },
     "808959": {
       "name_ja": "村上宗隆",
@@ -95,20 +98,20 @@
           "opponent": "Houston Astros",
           "is_home": false,
           "start_jst": "09:10",
-          "status": "Live"
+          "status": "Final"
         }
       ],
       "recent_game": {
-        "date_jst": "09/01",
+        "date_jst": "09/02",
         "opponent": "Houston Astros",
-        "batting": "2打数0安打 本塁打0 打点1 三振1 四球3",
+        "batting": "4打数0安打 本塁打0 打点0 三振3 四球1",
         "pitching": null
       },
       "season_hitting": "打率.215 本塁打29 打点59 OPS .847",
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/munetaka-murakami-808959",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/808959",
-      "updated_at": "2026/09/02 12:13"
+      "updated_at": "2026/09/02 17:03"
     },
     "545361": {
       "name_ja": "マイク・トラウト",
@@ -120,20 +123,20 @@
           "opponent": "New York Yankees",
           "is_home": true,
           "start_jst": "10:38",
-          "status": "Live"
+          "status": "Final"
         }
       ],
       "recent_game": {
-        "date_jst": "09/01",
+        "date_jst": "09/02",
         "opponent": "New York Yankees",
-        "batting": "5打数2安打 本塁打0 打点2 三振1 四球0",
+        "batting": "4打数0安打 本塁打0 打点0 三振2 四球0",
         "pitching": null
       },
-      "season_hitting": "打率.239 本塁打20 打点50 OPS .801",
+      "season_hitting": "打率.239 本塁打20 打点50 OPS .800",
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/mike-trout-545361",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/545361",
-      "updated_at": "2026/09/02 12:13"
+      "updated_at": "2026/09/02 17:03"
     },
     "665487": {
       "name_ja": "フェルナンド・タティスJr.",
@@ -158,7 +161,7 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/fernando-tatis-jr-665487",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/665487",
-      "updated_at": "2026/09/02 12:13"
+      "updated_at": "2026/09/02 17:03"
     },
     "807799": {
       "name_ja": "吉田正尚",
@@ -183,7 +186,7 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/masataka-yoshida-807799",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/807799",
-      "updated_at": "2026/09/02 12:13"
+      "updated_at": "2026/09/02 17:03"
     }
   }
 }
