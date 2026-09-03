@@ -5,7 +5,12 @@
     "824634:pregame": true,
     "823906:pregame": true,
     "823983:pregame": true,
-    "824717:postgame": true
+    "824717:postgame": true,
+    "823906:postgame": true,
+    "824634:postgame": true,
+    "824390:postgame": true,
+    "824147:postgame": true,
+    "823983:postgame": true
   },
   "cache": {
     "660271": {
@@ -18,20 +23,20 @@
           "opponent": "St. Louis Cardinals",
           "is_home": true,
           "start_jst": "11:10",
-          "status": "Preview"
+          "status": "Final"
         }
       ],
       "recent_game": {
-        "date_jst": "09/02",
+        "date_jst": "09/03",
         "opponent": "St. Louis Cardinals",
-        "batting": "2打数1安打 本塁打0 打点0 三振0 四球1",
+        "batting": "4打数0安打 本塁打0 打点0 三振4 四球1",
         "pitching": null
       },
-      "season_hitting": "打率.281 本塁打30 打点80 OPS .911",
+      "season_hitting": "打率.279 本塁打30 打点80 OPS .906",
       "season_pitching": "防御率1.79 8勝2敗 奪三振95",
       "mlb_url": "https://www.mlb.com/player/shohei-ohtani-660271",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/660271",
-      "updated_at": "2026/09/03 09:58"
+      "updated_at": "2026/09/03 14:38"
     },
     "673548": {
       "name_ja": "鈴木誠也",
@@ -43,20 +48,20 @@
           "opponent": "Milwaukee Brewers",
           "is_home": true,
           "start_jst": "08:40",
-          "status": "Live"
+          "status": "Final"
         }
       ],
       "recent_game": {
-        "date_jst": "09/02",
+        "date_jst": "09/03",
         "opponent": "Milwaukee Brewers",
-        "batting": "2打数0安打 本塁打0 打点0 三振1 四球2",
+        "batting": "3打数0安打 本塁打0 打点0 三振0 四球2",
         "pitching": null
       },
-      "season_hitting": "打率.276 本塁打24 打点80 OPS .862",
+      "season_hitting": "打率.275 本塁打24 打点80 OPS .860",
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/seiya-suzuki-673548",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/673548",
-      "updated_at": "2026/09/03 09:58"
+      "updated_at": "2026/09/03 14:38"
     },
     "672960": {
       "name_ja": "岡本和真",
@@ -68,20 +73,20 @@
           "opponent": "Cleveland Guardians",
           "is_home": false,
           "start_jst": "07:40",
-          "status": "Live"
+          "status": "Final"
         }
       ],
       "recent_game": {
-        "date_jst": "09/02",
+        "date_jst": "09/03",
         "opponent": "Cleveland Guardians",
-        "batting": "3打数1安打 本塁打0 打点0 三振2 四球0",
+        "batting": "4打数0安打 本塁打0 打点0 三振3 四球0",
         "pitching": null
       },
       "season_hitting": "打率.227 本塁打28 打点78 OPS .742",
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/kazuma-okamoto-672960",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/672960",
-      "updated_at": "2026/09/03 09:58"
+      "updated_at": "2026/09/03 14:38"
     },
     "808959": {
       "name_ja": "村上宗隆",
@@ -93,20 +98,20 @@
           "opponent": "Houston Astros",
           "is_home": false,
           "start_jst": "09:10",
-          "status": "Live"
+          "status": "Final"
         }
       ],
       "recent_game": {
-        "date_jst": "09/02",
+        "date_jst": "09/03",
         "opponent": "Houston Astros",
-        "batting": "4打数0安打 本塁打0 打点0 三振3 四球1",
+        "batting": "4打数1安打 本塁打0 打点0 三振1 四球0",
         "pitching": null
       },
-      "season_hitting": "打率.214 本塁打29 打点59 OPS .843",
+      "season_hitting": "打率.215 本塁打29 打点59 OPS .844",
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/munetaka-murakami-808959",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/808959",
-      "updated_at": "2026/09/03 09:58"
+      "updated_at": "2026/09/03 14:38"
     },
     "545361": {
       "name_ja": "マイク・トラウト",
@@ -118,20 +123,20 @@
           "opponent": "New York Yankees",
           "is_home": true,
           "start_jst": "10:38",
-          "status": "Preview"
+          "status": "Final"
         }
       ],
       "recent_game": {
-        "date_jst": "09/02",
+        "date_jst": "09/03",
         "opponent": "New York Yankees",
-        "batting": "4打数0安打 本塁打0 打点0 三振2 四球0",
+        "batting": "4打数1安打 本塁打0 打点0 三振2 四球0",
         "pitching": null
       },
-      "season_hitting": "打率.239 本塁打20 打点50 OPS .800",
+      "season_hitting": "打率.239 本塁打20 打点50 OPS .798",
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/mike-trout-545361",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/545361",
-      "updated_at": "2026/09/03 09:58"
+      "updated_at": "2026/09/03 14:38"
     },
     "665487": {
       "name_ja": "フェルナンド・タティスJr.",
@@ -156,7 +161,7 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/fernando-tatis-jr-665487",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/665487",
-      "updated_at": "2026/09/03 09:58"
+      "updated_at": "2026/09/03 14:38"
     },
     "807799": {
       "name_ja": "吉田正尚",
@@ -181,7 +186,7 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/masataka-yoshida-807799",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/807799",
-      "updated_at": "2026/09/03 09:58"
+      "updated_at": "2026/09/03 14:38"
     }
   }
 }
