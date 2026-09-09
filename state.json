@@ -27,7 +27,7 @@
       "season_pitching": "防御率1.79 8勝2敗 奪三振95",
       "mlb_url": "https://www.mlb.com/player/shohei-ohtani-660271",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/660271",
-      "updated_at": "2026/09/10 02:55"
+      "updated_at": "2026/09/10 05:32"
     },
     "673548": {
       "name_ja": "鈴木誠也",
@@ -52,7 +52,7 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/seiya-suzuki-673548",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/673548",
-      "updated_at": "2026/09/10 02:55"
+      "updated_at": "2026/09/10 05:32"
     },
     "672960": {
       "name_ja": "岡本和真",
@@ -64,7 +64,7 @@
           "opponent": "Athletics",
           "is_home": false,
           "start_jst": "04:05",
-          "status": "Preview"
+          "status": "Live"
         }
       ],
       "recent_game": {
@@ -73,11 +73,11 @@
         "batting": "4打数2安打 本塁打1 打点1 三振0 四球0",
         "pitching": null
       },
-      "season_hitting": "打率.234 本塁打30 打点83 OPS .762",
+      "season_hitting": "打率.233 本塁打30 打点83 OPS .759",
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/kazuma-okamoto-672960",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/672960",
-      "updated_at": "2026/09/10 02:55"
+      "updated_at": "2026/09/10 05:32"
     },
     "808959": {
       "name_ja": "村上宗隆",
@@ -102,7 +102,7 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/munetaka-murakami-808959",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/808959",
-      "updated_at": "2026/09/10 02:55"
+      "updated_at": "2026/09/10 05:32"
     },
     "545361": {
       "name_ja": "マイク・トラウト",
@@ -127,7 +127,7 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/mike-trout-545361",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/545361",
-      "updated_at": "2026/09/10 02:55"
+      "updated_at": "2026/09/10 05:32"
     },
     "665487": {
       "name_ja": "フェルナンド・タティスJr.",
@@ -139,7 +139,7 @@
           "opponent": "Washington Nationals",
           "is_home": true,
           "start_jst": "05:10",
-          "status": "Preview"
+          "status": "Live"
         }
       ],
       "recent_game": {
@@ -148,11 +148,11 @@
         "batting": "3打数0安打 本塁打0 打点0 三振1 四球1",
         "pitching": null
       },
-      "season_hitting": "打率.282 本塁打20 打点71 OPS .796",
+      "season_hitting": "打率.283 本塁打20 打点71 OPS .798",
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/fernando-tatis-jr-665487",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/665487",
-      "updated_at": "2026/09/10 02:55"
+      "updated_at": "2026/09/10 05:32"
     },
     "807799": {
       "name_ja": "吉田正尚",
@@ -177,7 +177,7 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/masataka-yoshida-807799",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/807799",
-      "updated_at": "2026/09/10 02:55"
+      "updated_at": "2026/09/10 05:32"
     }
   }
 }
