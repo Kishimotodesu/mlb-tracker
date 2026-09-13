@@ -5,7 +5,8 @@
     "823815:postgame": true,
     "822764:postgame": true,
     "823008:postgame": true,
-    "822682:postgame": true
+    "822682:postgame": true,
+    "824628:postgame": true
   },
   "cache": {
     "660271": {
@@ -31,7 +32,7 @@
       "season_pitching": "防御率1.79 8勝2敗 奪三振95",
       "mlb_url": "https://www.mlb.com/player/shohei-ohtani-660271",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/660271",
-      "updated_at": "2026/09/14 06:01"
+      "updated_at": "2026/09/14 08:20"
     },
     "673548": {
       "name_ja": "鈴木誠也",
@@ -43,20 +44,20 @@
           "opponent": "Pittsburgh Pirates",
           "is_home": true,
           "start_jst": "03:20",
-          "status": "Live"
+          "status": "Final"
         }
       ],
       "recent_game": {
-        "date_jst": "09/13",
+        "date_jst": "09/14",
         "opponent": "Pittsburgh Pirates",
-        "batting": "0打数0安打 本塁打0 打点0 三振0 四球1",
+        "batting": "3打数0安打 本塁打0 打点0 三振1 四球1",
         "pitching": null
       },
       "season_hitting": "打率.269 本塁打24 打点81 OPS .846",
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/seiya-suzuki-673548",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/673548",
-      "updated_at": "2026/09/14 06:01"
+      "updated_at": "2026/09/14 08:20"
     },
     "672960": {
       "name_ja": "岡本和真",
@@ -81,7 +82,7 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/kazuma-okamoto-672960",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/672960",
-      "updated_at": "2026/09/14 06:01"
+      "updated_at": "2026/09/14 08:20"
     },
     "808959": {
       "name_ja": "村上宗隆",
@@ -106,7 +107,7 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/munetaka-murakami-808959",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/808959",
-      "updated_at": "2026/09/14 06:01"
+      "updated_at": "2026/09/14 08:20"
     },
     "545361": {
       "name_ja": "マイク・トラウト",
@@ -131,7 +132,7 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/mike-trout-545361",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/545361",
-      "updated_at": "2026/09/14 06:01"
+      "updated_at": "2026/09/14 08:20"
     },
     "665487": {
       "name_ja": "フェルナンド・タティスJr.",
@@ -143,7 +144,7 @@
           "opponent": "San Francisco Giants",
           "is_home": false,
           "start_jst": "08:20",
-          "status": "Preview"
+          "status": "Live"
         }
       ],
       "recent_game": {
@@ -156,7 +157,7 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/fernando-tatis-jr-665487",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/665487",
-      "updated_at": "2026/09/14 06:01"
+      "updated_at": "2026/09/14 08:20"
     },
     "807799": {
       "name_ja": "吉田正尚",
@@ -181,7 +182,7 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/masataka-yoshida-807799",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/807799",
-      "updated_at": "2026/09/14 06:01"
+      "updated_at": "2026/09/14 08:20"
     }
   }
 }
