@@ -12,7 +12,7 @@
           "opponent": "San Francisco Giants",
           "is_home": false,
           "start_jst": "04:05",
-          "status": "Preview"
+          "status": "Live"
         }
       ],
       "recent_game": {
@@ -21,11 +21,11 @@
         "batting": "5打数1安打 本塁打0 打点0 三振2 四球0",
         "pitching": null
       },
-      "season_hitting": "打率.275 本塁打30 打点81 OPS .890",
+      "season_hitting": "打率.275 本塁打30 打点81 OPS .889",
       "season_pitching": "防御率1.79 8勝2敗 奪三振95",
       "mlb_url": "https://www.mlb.com/player/shohei-ohtani-660271",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/660271",
-      "updated_at": "2026/09/28 02:09"
+      "updated_at": "2026/09/28 05:18"
     },
     "673548": {
       "name_ja": "鈴木誠也",
@@ -37,7 +37,7 @@
           "opponent": "Boston Red Sox",
           "is_home": false,
           "start_jst": "04:05",
-          "status": "Preview"
+          "status": "Live"
         }
       ],
       "recent_game": {
@@ -50,7 +50,7 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/seiya-suzuki-673548",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/673548",
-      "updated_at": "2026/09/28 02:09"
+      "updated_at": "2026/09/28 05:18"
     },
     "672960": {
       "name_ja": "岡本和真",
@@ -62,7 +62,7 @@
           "opponent": "Cincinnati Reds",
           "is_home": true,
           "start_jst": "04:07",
-          "status": "Preview"
+          "status": "Live"
         }
       ],
       "recent_game": {
@@ -71,11 +71,11 @@
         "batting": "3打数0安打 本塁打0 打点0 三振1 四球1",
         "pitching": null
       },
-      "season_hitting": "打率.233 本塁打33 打点92 OPS .764",
+      "season_hitting": "打率.233 本塁打33 打点92 OPS .763",
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/kazuma-okamoto-672960",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/672960",
-      "updated_at": "2026/09/28 02:09"
+      "updated_at": "2026/09/28 05:18"
     },
     "808959": {
       "name_ja": "村上宗隆",
@@ -87,7 +87,7 @@
           "opponent": "Colorado Rockies",
           "is_home": true,
           "start_jst": "04:10",
-          "status": "Preview"
+          "status": "Live"
         }
       ],
       "recent_game": {
@@ -96,11 +96,11 @@
         "batting": "5打数0安打 本塁打0 打点0 三振2 四球0",
         "pitching": null
       },
-      "season_hitting": "打率.207 本塁打35 打点77 OPS .826",
+      "season_hitting": "打率.208 本塁打35 打点77 OPS .828",
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/munetaka-murakami-808959",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/808959",
-      "updated_at": "2026/09/28 02:09"
+      "updated_at": "2026/09/28 05:18"
     },
     "545361": {
       "name_ja": "マイク・トラウト",
@@ -112,7 +112,7 @@
           "opponent": "Seattle Mariners",
           "is_home": false,
           "start_jst": "04:10",
-          "status": "Preview"
+          "status": "Live"
         }
       ],
       "recent_game": {
@@ -125,7 +125,7 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/mike-trout-545361",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/545361",
-      "updated_at": "2026/09/28 02:09"
+      "updated_at": "2026/09/28 05:18"
     },
     "665487": {
       "name_ja": "フェルナンド・タティスJr.",
@@ -137,7 +137,7 @@
           "opponent": "Arizona Diamondbacks",
           "is_home": true,
           "start_jst": "04:10",
-          "status": "Preview"
+          "status": "Live"
         }
       ],
       "recent_game": {
@@ -150,7 +150,7 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/fernando-tatis-jr-665487",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/665487",
-      "updated_at": "2026/09/28 02:09"
+      "updated_at": "2026/09/28 05:18"
     },
     "807799": {
       "name_ja": "吉田正尚",
@@ -162,7 +162,7 @@
           "opponent": "Chicago Cubs",
           "is_home": true,
           "start_jst": "04:05",
-          "status": "Preview"
+          "status": "Live"
         }
       ],
       "recent_game": {
@@ -175,7 +175,7 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/masataka-yoshida-807799",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/807799",
-      "updated_at": "2026/09/28 02:09"
+      "updated_at": "2026/09/28 05:18"
     }
   }
 }
