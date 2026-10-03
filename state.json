@@ -2,7 +2,8 @@
   "date": "2026-10-04",
   "notified": {
     "849829:pregame": true,
-    "849828:pregame": true
+    "849828:pregame": true,
+    "849829:postgame": true
   },
   "cache": {
     "660271": {
@@ -15,7 +16,7 @@
           "opponent": "Atlanta Braves",
           "is_home": true,
           "start_jst": "05:00",
-          "status": "Preview"
+          "status": "Live"
         }
       ],
       "recent_game": {
@@ -28,7 +29,7 @@
       "season_pitching": "防御率1.79 8勝2敗 奪三振95",
       "mlb_url": "https://www.mlb.com/player/shohei-ohtani-660271",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/660271",
-      "updated_at": "2026/10/04 04:01"
+      "updated_at": "2026/10/04 07:18"
     },
     "673548": {
       "name_ja": "鈴木誠也",
@@ -45,7 +46,7 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/seiya-suzuki-673548",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/673548",
-      "updated_at": "2026/10/04 04:01"
+      "updated_at": "2026/10/04 07:18"
     },
     "672960": {
       "name_ja": "岡本和真",
@@ -62,7 +63,7 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/kazuma-okamoto-672960",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/672960",
-      "updated_at": "2026/10/04 04:01"
+      "updated_at": "2026/10/04 07:18"
     },
     "808959": {
       "name_ja": "村上宗隆",
@@ -74,20 +75,20 @@
           "opponent": "Cleveland Guardians",
           "is_home": false,
           "start_jst": "02:00",
-          "status": "Live"
+          "status": "Final"
         }
       ],
       "recent_game": {
-        "date_jst": "10/01",
-        "opponent": "Houston Astros",
-        "batting": "5打数0安打 本塁打0 打点0 三振3 四球0",
+        "date_jst": "10/04",
+        "opponent": "Cleveland Guardians",
+        "batting": "4打数2安打 本塁打1 打点2 三振2 四球0",
         "pitching": null
       },
       "season_hitting": "打率.207 本塁打35 打点77 OPS .825",
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/munetaka-murakami-808959",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/808959",
-      "updated_at": "2026/10/04 04:01"
+      "updated_at": "2026/10/04 07:18"
     },
     "545361": {
       "name_ja": "マイク・トラウト",
@@ -104,7 +105,7 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/mike-trout-545361",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/545361",
-      "updated_at": "2026/10/04 04:01"
+      "updated_at": "2026/10/04 07:18"
     },
     "665487": {
       "name_ja": "フェルナンド・タティスJr.",
@@ -129,7 +130,7 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/fernando-tatis-jr-665487",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/665487",
-      "updated_at": "2026/10/04 04:01"
+      "updated_at": "2026/10/04 07:18"
     },
     "807799": {
       "name_ja": "吉田正尚",
@@ -146,7 +147,7 @@
       "season_pitching": null,
       "mlb_url": "https://www.mlb.com/player/masataka-yoshida-807799",
       "savant_url": "https://baseballsavant.mlb.com/savant-player/807799",
-      "updated_at": "2026/10/04 04:01"
+      "updated_at": "2026/10/04 07:18"
     }
   }
 }
